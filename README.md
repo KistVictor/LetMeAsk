@@ -10,13 +10,18 @@
 
 <p align="center">
    <img src="./documentation/Home.png" alt="Home page Letmeask"/>
+   <img src="./documentation/Room.png" alt="Home page Letmeask"/>
 </p>
 
 ---
 
 ## :pushpin: Sobre
 
-Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat. Consiste numa plataforma para gerenciar/fazer perguntas em uma determinada sala.
+Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat. <br/>
+Consiste numa plataforma para gerenciar/fazer perguntas em uma determinada sala. <br/>
+O usuário pode entrar em uma sala, fazer peguntas e dar likes em perguntas relevantes. <br/>
+O admin pode criar uma sala, marcar perguntas como respondida, dar ênfase em uma pergunta e excluir perguntas. <br/>
+
 
 #### Acesse os templates no Figma:
 
@@ -56,7 +61,7 @@ $ yarn install
 $ yarn start
 ```
 
-Acesse em seu navegador http://localhost:3000/ para ver o resultado.
+Acesse em seu navegador [`localhost:3000`](http://localhost:3000) para ver o resultado.
 
 ## 📝 Licença
 
