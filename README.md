@@ -1,46 +1,71 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="./src/assets/images/logo.svg" alt="letmeask" width="200"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kistvictor/letmeask?color=835AFD">
+  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kistvictor/letmeask?color=835AFD">
+</p>
 
-## Available Scripts
+<p align="center">
+   <img src="./documentation/Home.png" alt="Home page Letmeask"/>
+</p>
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## :pushpin: Sobre
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat. Consiste numa plataforma para gerenciar/fazer perguntas em uma determinada sala.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Acesse os templates no Figma:
 
-### `yarn test`
+- [Layout Web - Figma](https://www.figma.com/file/d8giPdVC2W41ZJu1yUk0dq/Letmeask)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Acesse a demo:
 
-### `yarn build`
+- [Letmeask - Demo](https://letmeask-kist.web.app)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✨ Tecnologias utilizadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/?hl=pt)
 
-### `yarn eject`
+## 🚀 Como rodar?
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Execute os comandos no seu terminal:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Clone o repositório
+$ git clone https://github.com/evertoont/letmeask-nwl
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Entre no repositório
+$ cd letmeask-nwl
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Instale as dependências
+$ yarn install
 
-## Learn More
+# Realize a configuração do SDK do Firebase
+# No arquivo .env.example
+# Altere o nome do arquivo para .env.local
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Execute a aplicação
+$ yarn start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Acesse em seu navegador http://localhost:3000/ para ver o resultado.
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<p align="center">Made with 💻 by <a href="https://github.com/ksitvictor">Victor Kist</a> <br><br>
+<a href="https://www.linkedin.com/in/victor-kist/">
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Victor_Kist-blue?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
+</p>
