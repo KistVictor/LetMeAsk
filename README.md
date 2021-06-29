@@ -45,7 +45,7 @@ Execute os comandos no seu terminal:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/evertoont/letmeask-nwl
+$ git clone https://github.com/KistVictor/LetMeAsk
 
 # Entre no repositório
 $ cd letmeask-nwl
